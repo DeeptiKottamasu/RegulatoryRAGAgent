@@ -1,0 +1,6 @@
+beautifulsoup4
+cloudscraper
+faiss-cpu
+openai
+sentence-transformers
+selenium
