@@ -2,7 +2,7 @@ Regulatory RAG Agent (FDA Cosmetics Edition)
 
 A lightweight Retrieval-Augmented Generation (RAG) agent that crawls FDA cosmetic regulation pages,
 vectorizes the content using MiniLM, and answers natural language questions via a CLI interface
-powered by FAISS and OpenAI's GPT-3.5.turbo models.
+powered by FAISS and OpenAI's GPT-3.5.turbo model.
 
 Features
 
