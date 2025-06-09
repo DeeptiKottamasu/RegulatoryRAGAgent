@@ -17,10 +17,10 @@ Features
 
 ## Installation
 
-git clone https://github.com/yourusername/RegulatoryRAGAgent.git
-cd RegulatoryRAGAgent
-pip install -r requirements.txt
-python RegulatoryAgent.py
+- git clone https://github.com/yourusername/RegulatoryRAGAgent.git
+- cd RegulatoryRAGAgent
+- pip install -r requirements.txt
+- python RegulatoryAgent.py
 
 
 ## Sample Queries
